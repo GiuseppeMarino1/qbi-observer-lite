@@ -89,5 +89,5 @@ To access the advanced version, request scientific collaboration, or receive mor
 
 Author Contact
 Giuseppe Marino
-Email: giuseppe.marino@example.com
+Email: qbicore@pec.it
 Phone: (+39) 348 5550525
