@@ -1,0 +1,23 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0)
+
+QBI-Observer Lite+ is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+You are free to:
+- **Share** — copy, distribute and transmit the material in any medium or format.
+
+Under the following mandatory conditions:
+- **Attribution** — You must give appropriate credit, cite the original author (Giuseppe Marino), and provide a link to the license.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — You may not alter, transform, or build upon this material.
+
+Specific Ethical Clause:
+It is strictly prohibited to use this module in the following contexts:
+- Autonomous or automated decision-making systems.
+- Artificial General Intelligence (AGI) platforms.
+- Military, defense, surveillance applications, or systems that may violate human rights.
+- Any deployment that is not compliant with the European AI Act (2024).
+
+This license is fully aligned with the ethical principles and regulatory framework defined by the **EU Artificial Intelligence Act (2024)**.
+
+For detailed legal terms, please visit: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+

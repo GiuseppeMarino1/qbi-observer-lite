@@ -1,0 +1,12 @@
+# DISCLAIMER – QBI-Observer Lite+
+
+This software module represents only a basic fragment of the QBI-Core system (Quantum Brain Interface).
+
+- It does not represent, simulate, or contain any form of AGI (Artificial General Intelligence).
+- It lacks persistent memory, intentionality, and any autonomous decision-making capabilities.
+- It is provided exclusively for the purposes of testing, scientific research, education, and transparent demonstration.
+- It must not be used in autonomous decision systems, commercial applications, military use cases, or surveillance systems.
+
+The author (Giuseppe Marino) is not responsible for any misuse, unintended consequences, or damages resulting from unauthorized or unethical use of this module.
+
+This module does not represent the full cognitive or metacognitive capacity of the QBI-Core system and must be understood as a limited, non-autonomous component released for scientific openness only.
